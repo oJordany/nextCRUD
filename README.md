@@ -88,7 +88,7 @@ NEXT_PUBLIC_FIREBASE_PROJECT_ID=xxxxxxxxxxxxxxxxx
 <h2></h2>
 <h2><a name="license">&#x1F4DC License</a></h2>
 
-<div align="center"><a href="https://github.com/oJordany/ReactRegistrationSystem/"><img src="https://img.shields.io/github/license/ojordany/ReactRegistrationSystem?style=social"></a></div>
+<div align="center"><a href="https://github.com/oJordany/nextCRUD/"><img src="https://img.shields.io/github/license/ojordany/ReactRegistrationSystem?style=social"></a></div>
 
 ~~~
 MIT License
